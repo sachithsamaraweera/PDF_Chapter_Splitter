@@ -1,5 +1,10 @@
 # PDF Chapter Splitter
 
+
+![image](https://github.com/user-attachments/assets/24f146f4-ed59-41e8-a5d8-1fcb1dc3a8fe)
+
+
+
 A Streamlit web application to split PDF files into chapters based on bookmarks or user-defined page ranges.
 
 ## Description
